@@ -10,5 +10,8 @@ package com.mingda.wj.webnotes;
  * @author Administrator
  */
 public class Main {
-    
+
+    public String say() {
+        return "aaaa";
+    }
 }
